@@ -1,6 +1,6 @@
 # CSTOOL.io
 
-Hosted at http://CSTOOL.io
+An open source project that hosts simple cybersecurity tools. Running at http://CSTOOL.io
 
 The website consists of the following services and repositories:
 * [AttackSrfc](https://github.com/Agh42/attacksrfc) - frontend and currently also homepage
