@@ -4,7 +4,7 @@ An open source project that hosts simple cybersecurity tools. Running at http://
 
 The website consists of the following services and repositories:
 * [AttackSrfc](https://github.com/Agh42/attacksrfc) - frontend and currently also homepage
-** [![Uptime Robot ratio (30 days)](https://img.shields.io/uptimerobot/ratio/m783419130-f522a7c4e60c5abe0ae5318d)](https://stats.uptimerobot.com/RMwRDtvPLw)
+  * [![Uptime Robot ratio (30 days)](https://img.shields.io/uptimerobot/ratio/m783419130-f522a7c4e60c5abe0ae5318d)](https://stats.uptimerobot.com/RMwRDtvPLw)
 [![Discord](https://img.shields.io/discord/653137568740933632)](https://discord.gg/5HWZufA)
 [![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/cstool_io?style=social)](https://www.reddit.com/r/cstool_io)
 master: ![Travis (.org) branch](https://img.shields.io/travis/Agh42/attacksrfc/master)
