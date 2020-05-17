@@ -13,3 +13,4 @@ master: [![Travis (.org) branch](https://img.shields.io/travis/Agh42/attacksrfc/
 * [cve-search](https://github.com/Agh42/cve-search) - fork of the cve-search project to fill the vulnerability database
   * [Docker Build](https://hub.docker.com/r/akoderman/cvesearch)
 * [cve-news-search](https://github.com/Agh42/cve-news-search) - Search news and social media for  CVE mentions
+  * [Docker Build](https://hub.docker.com/r/akoderman/cve-news-search)
