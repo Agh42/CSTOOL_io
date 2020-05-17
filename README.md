@@ -11,6 +11,6 @@ master: [![Travis (.org) branch](https://img.shields.io/travis/Agh42/attacksrfc/
 * [cveservice](https://bitbucket.org/Agh42/cveservice/) - REST service to query the CVEdatabase
   * [![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/akoderman/cveservice)](https://hub.docker.com/r/akoderman/cveservice)
 * [cve-search](https://github.com/Agh42/cve-search) - fork of the cve-search project to fill the vulnerability database
-  * [Docker Build](https://hub.docker.com/r/akoderman/cvesearch)
+  * [![Docker Build](https://img.shields.io/docker/build/akoderman/cvesearch)](https://hub.docker.com/r/akoderman/cvesearch)
 * [cve-news-search](https://github.com/Agh42/cve-news-search) - Search news and social media for  CVE mentions
-  * [Docker Build](https://hub.docker.com/r/akoderman/cve-news-search)
+  * [![Docker Build](https://img.shields.io/docker/build/akoderman/cve-news-search)](https://hub.docker.com/r/akoderman/cve-news-search)
