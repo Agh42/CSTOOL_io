@@ -5,10 +5,6 @@ A cloud-native open source project that hosts immediately usable cybersecurity t
 The website consists of the following services and repositories:
 * [AttackSrfc](https://github.com/Agh42/attacksrfc) - frontend and landing page
   * [![Uptime Robot ratio (30 days)](https://img.shields.io/uptimerobot/ratio/m783419130-f522a7c4e60c5abe0ae5318d)](https://stats.uptimerobot.com/RMwRDtvPLw)
-master: [![Travis (.org) branch](https://img.shields.io/travis/Agh42/attacksrfc/master)](https://www.travis-ci.org/Agh42/attacksrfc)
 * [cveservice](https://bitbucket.org/Agh42/cveservice/) - REST service to query the CVEdatabase
-  * [![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/akoderman/cveservice)](https://hub.docker.com/r/akoderman/cveservice)
 * [cve-search](https://github.com/Agh42/cve-search) - fork of the cve-search project to fill the vulnerability database
-  * [![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/akoderman/cvesearch)](https://hub.docker.com/r/akoderman/cvesearch)
 * [cve-news-search](https://github.com/Agh42/cve-news-search) - Search news and social media for  CVE mentions
-  * [![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/akoderman/cve-news-search)](https://hub.docker.com/r/akoderman/cve-news-search)
